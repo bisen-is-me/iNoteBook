@@ -21,14 +21,6 @@ npm install react-router-dom
 npm i concurrently
 ```
 
-## Preview
-<p align="Center">
-  <img src="https://github.com/TheNewC0der-24/iNotebook/blob/master/Preview/Preview-1.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/iNotebook/blob/master/Preview/Preview-2.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/iNotebook/blob/master/Preview/Preview-3.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/iNotebook/blob/master/Preview/Preview-4.png" width="400">
-</p>
-
 ## How to run application:
 To start the Project in localhost, you just have to clone this repository and run the below 👇 command in terminal:
 ```
